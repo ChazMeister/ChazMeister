@@ -1,4 +1,7 @@
-## Hi there 👋
+## Teal :D
+
+```math
+\ce{$\unicode[Arial, sans-serif; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.8; background: rgb(0, 100, 100);]{x0000}$}
 
 <!--
 **ChazMeister/ChazMeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
